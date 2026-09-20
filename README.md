@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Mohamed Mahmoud Aboulmagd 👋
+# Hi, I'm Mohamed Aboulmagd 👋
 
 ### Senior GIS Application Developer | Software Engineer | PMP® | PMI-ACP®
 
